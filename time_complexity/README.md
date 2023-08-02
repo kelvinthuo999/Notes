@@ -41,3 +41,18 @@
 	4. for (i = 1; i < n; i = i * 2)	= O(log n) base 2
 	5. for (i = 1; i < n; i = i * 3) 	= O(log n) base 3
 	6. for (i = n; i > 1; i = i / 2) 	= O(log n) base 2
+
+## if and while loop
+- Simple loop takes O(n).
+- while (a < b) will take log n.
+
+## Types of time functions
+
+- O(1) refers to constant time.
+- O(log n) time complexity is logritemic.
+- O(n) is linear.
+- O(n squared) quadratic.
+- O(n cubed) cubic.
+- O(2 ^n^) exponential.
+
+
