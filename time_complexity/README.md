@@ -51,8 +51,8 @@
 - O(1) refers to constant time.
 - O(log n) time complexity is logritemic.
 - O(n) is linear.
-- O(n squared) quadratic.
-- O(n cubed) cubic.
+- O(n<sup>2</sup>) quadratic.
+- O(n<sup>3</sup>) cubic.
 - O(2<sup>n</sup>) exponential.
 
 
