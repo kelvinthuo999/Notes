@@ -53,7 +53,6 @@
 - O(n) is linear.
 - O(n squared) quadratic.
 - O(n cubed) cubic.
-- O(2 ^n^) exponential.
-A ^2^
+- O(2^n^) exponential.
 
 
